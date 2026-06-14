@@ -34,3 +34,7 @@ There are no font restrictions. Fira Code and its relatives are preferred.
 ## Final Words
 
 **Stay tuned!**
+
+## Important note
+
+_I used em dashes because I like them, not because of ChatGPT._
